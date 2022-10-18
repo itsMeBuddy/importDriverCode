@@ -5,4 +5,4 @@ void display2D(vector<vector<int>> vec){
         }
         cout<<endl;
     }
-}.
+}
